@@ -1,4 +1,3 @@
 This is a test and a example
-add merge
-
+Git is a free software .
 
